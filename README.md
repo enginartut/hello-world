@@ -1,1 +1,3 @@
 # hello-world
+deneme amaclı actgım bu dallanma bakalım nereye varacak
+de sekim hata koyt na sıqı sona...
